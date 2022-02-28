@@ -16,7 +16,6 @@ public class Student {
         this.age = age;
     }
 
-
     static ArrayList<Student> genData() {
         ArrayList<Student> result = new ArrayList<>();
 
